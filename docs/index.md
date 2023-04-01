@@ -1,104 +1,85 @@
 ---
 layout: cv
-title: Morone Ribeiro's Resume
+title: Brigham Young's Resume
 ---
-# Morone Ribeiro
-Rexburg, ID     
-208-283-4730
+# Brigham Young
+The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="mvbribe@byui.edu">mvbribe@byui.edu</a>
-| <a href="https://www.linkedin.com/in/morone-ribeiro/">LinkedIn</a>
-| <a href="https://github.com/ribeiromvb/moroneribeiro-resume">GitHub</a>
+<a href="datascience@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2019-2023`
-__Brigham Young University Idaho__, Rexburg, ID
+`2025-2027`
+test
+__LDS Business College__, Salt Lake City, UT
 
-- BS Computer Information Technology
-- Certificate Data Science
-- Certificate Computer Information Technology
+- Full academic scholarship with 4.0 GPA
 
-`2016-2017`
-__Pathway Worldwide__, Sao Paulo, Brazil
+`Expected 2029`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- General Academic Certificate
+- 4.0 Major GPA
+
 
 ## Related Experience
 
-### Data Visualization Specialist 4
+### Internships
 
-`January 2023 - current`
-__Brigham Young University Idaho__, Rexburg, ID
+`January 2028 - June 2028`
+__Pacific Northwest National Lab__, Richland, WA
 
-- Team lead and trainer, supporting team members with their individual tasks and projects.
-- Process innovation.
-- Creation and management of reports and dashboards; identifying concepts, trends and patterns in student data.
-- Provided tools for several teams within the organization to identify data integrity issues, track performance and interactions.
-- Tools Used: Power BI, Power Query, Excel, Microsoft Forms, Microsoft Flow, Microsoft Report Builder, Microsoft Planner and Microsoft SharePoint.
+- Worked on novel methods for soil sampling to reduce laboratory measurements
+- Used R and Visual Sample Plan to establish new sampling algorithms
+- Published a journal article in Environmental Quality.
 
-### Data Visualization Specialist 2
+### Data Science Lead
 
-`October 2020 - September 2022`
-__Brigham Young University Idaho__, Rexburg, ID
+`April 2027 - June 2027`
+__Westmark Credit Union__, Consultant
 
-- Process innovation.
-- Creation and management of reports and dashboards; identifying concepts, trends and patterns in student data.
-- Provided tools for several teams within the organization to identify data integrity issues, track performance and interactions.
-- Tools Used: Power BI, Power Query, Excel, Microsoft Forms, Microsoft Flow, Microsoft Report Builder, Microsoft Planner and Microsoft SharePoint.
+- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
+- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
+- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
+`September 2027 - April 2028`
+__Good2Go__, Consultant
 
-### IT Engineer Intern
+- Built product ordering and supply predictive algorithms for chips and beverages categories
+- Established standardized SQL calls and connections for PowerBI dashboards
+- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-`August 2022 - December 2023`
-__The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
+### Data Science Consulting Team
 
-- Monitored and troubleshot all critical Church production network infrastructure and application services worldwide.
-- Worked with internal and external specialists, vendors and stakeholders worldwide.
-- Tools Used: Cisco – Meraki, SolarWinds, Splunk, Nagios, AppDynamics, ServiceNow.
+`January 2027 - April 2027`
+__Imagine Learning__
 
-### Student Custodial Coordinator
+- Build web scraping tool to find and format school district technology data.
+- Used R and the Rvest package to parse and format web data.
+- Saved 30 hours a month with the automated scripts.
 
-`November 2019 - October 2022`
-__Brigham Young University Idaho__, Rexburg, ID
+`April 2027 - July 2027`
+__Pinnacle Management Group__, 
 
-- Early morning student custodial coordinator, responsible for the Student Health Center and University Communications buildings.
-- Led a team of six part-time employees. 
-- Tools Used: Excel, Inventory management system, Building Scheduler, Planner, Workday.
-
-### IT Analyst
-
-`January 2012 - April 2018`
-__Sonda IT__, Sao Paulo, Brazil
-
-- IT support for Embraer Aircraft Industry.
-- Incident and user account management in Asian, European and North American markets.
-- Technical documentation support for mechanics and Aircraft owners.
-- Tools Used: Linux Server, Windows Server, Active Directory, SAP, Embraer-TechPubs, Remedy Incident Management.
-
-`April 2010 - October 2011`
-__Johnson & Johnson__, Sao Paulo, Brazil
-
-- Incident management for production plants in Brazilian, Asia-Pacific and European markets.
-- Salesforce team and remote user support.
-- Tools Used: Linux Server, Windows Server, Active Directory, SAP, Salesforce, Remedy Incident Management.
-
+- Proof of concept development of dashboards using client's corporate data.
+- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
+- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
-`2010-2012`
-__APAE Brasil__, Sao Paulo, Brazil
-
-- Worked as a volunteer at a NGO in Brazil that offers assistance to Down Syndrome patients.
+`2025-2027`
+__Math Tutor__, LDSBC
 
 
-`2004-2006`
-__Service Missionary__, Sao Paulo East, Brazil
+`2023-2025`
+__Service Missionary__, South Africa
 
 
 
