@@ -1,60 +1,108 @@
-# md-resume
+---
+layout: cv
+title: Morone Ribeiro's Resume
+---
+# Morone Ribeiro
+Rexburg, ID     
+208-283-4730
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="mvbribe@byui.edu">mvbribe@byui.edu</a>
+| <a href="https://www.linkedin.com/in/morone-ribeiro/">LinkedIn</a>
+| <a href="https://github.com/ribeiromvb/moroneribeiro-resume">GitHub</a>
+</div>
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
-***
+## Education
 
-## Customization
+`2019-2023`
+__Brigham Young University Idaho__, Rexburg, ID
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+- BS Computer Information Technology
+- Certificate Data Science
+- Certificate Computer Information Technology
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+`2016-2017`
+__Pathway Worldwide__, Sao Paulo, Brazil
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+- General Academic Certificate
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## Related Experience
 
-adding your skills, jobs and education.
+### Data Visualization Specialist 4
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+`January 2023 - current`
+__Brigham Young University Idaho__, Rexburg, ID
 
-## Distribution
+- Team lead and trainer, supporting team members with their individual tasks and projects.
+- Process innovation.
+- Creation and management of reports and dashboards; identifying concepts, trends and patterns in student data.
+- Provided tools for several teams within the organization to identify data integrity issues, track performance and interactions.
+- Tools Used: Power BI, Power Query, Excel, Microsoft Forms, Microsoft Flow, Microsoft Report Builder, Microsoft Planner and Microsoft SharePoint.
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+### Data Visualization Specialist 2
 
-### I. Use Github Pages to publish it online
+`October 2020 - September 2022`
+__Brigham Young University Idaho__, Rexburg, ID
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
+- Process innovation.
+- Creation and management of reports and dashboards; identifying concepts, trends and patterns in student data.
+- Provided tools for several teams within the organization to identify data integrity issues, track performance and interactions.
+- Tools Used: Power BI, Power Query, Excel, Microsoft Forms, Microsoft Flow, Microsoft Report Builder, Microsoft Planner and Microsoft SharePoint.
 
-![](docs_setup.png)
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+### IT Engineer Intern
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
+`August 2022 - December 2023`
+__The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
 
-## Styling
+- Monitored and troubleshot all critical Church production network infrastructure and application services worldwide.
+- Worked with internal and external specialists, vendors and stakeholders worldwide.
+- Tools Used: Cisco – Meraki, SolarWinds, Splunk, Nagios, AppDynamics, ServiceNow.
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+### Student Custodial Coordinator
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+`November 2019 - October 2022`
+__Brigham Young University Idaho__, Rexburg, ID
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+- Early morning student custodial coordinator, responsible for the Student Health Center and University Communications buildings.
+- Led a team of six part-time employees. 
+- Tools Used: Excel, Inventory management system, Building Scheduler, Planner, Workday.
 
-### Author
+### IT Analyst
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+`January 2012 - April 2018`
+__Sonda IT__, Sao Paulo, Brazil
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+- IT support for Embraer Aircraft Industry.
+- Incident and user account management in Asian, European and North American markets.
+- Technical documentation support for mechanics and Aircraft owners.
+- Tools Used: Linux Server, Windows Server, Active Directory, SAP, Embraer-TechPubs, Remedy Incident Management.
 
-### License
+`April 2010 - October 2011`
+__Johnson & Johnson__, Sao Paulo, Brazil
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+- Incident management for production plants in Brazilian, Asia-Pacific and European markets.
+- Salesforce team and remote user support.
+- Tools Used: Linux Server, Windows Server, Active Directory, SAP, Salesforce, Remedy Incident Management.
+
+
+
+## Service and Work History
+
+`2010-2012`
+__APAE Brasil__, Sao Paulo, Brazil
+
+- Worked as a volunteer at a NGO in Brazil that offers assistance to Down Syndrome patients.
+
+
+`2004-2006`
+__Service Missionary__, Sao Paulo East, Brazil
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
